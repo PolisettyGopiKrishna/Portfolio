@@ -1,0 +1,37 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Excel",
+    "imageSrc": "skills/excel.png"
+  },{
+    "title": "Django",
+    "imageSrc": "skills/djangoimage.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "PowerBI",
+    "imageSrc": "skills/power.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Data Science",
+    "imageSrc": "skills/data.png"
+  }
+]

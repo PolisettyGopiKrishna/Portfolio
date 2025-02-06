@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Research Intern",
+    "organisation": "NIT DURGAPUR",
+    "startDate": "October, 2024",
+    "endDate": "January 2025",
+    "experiences": ["Worked on Mathml and Research related to LLM of Mathematics"],
+    "imageSrc": "history/nit.png"
+  },
+  {
+    "role": "Data Analyst",
+    "organisation": "Saltriver Infosystems Pvt Ltd",
+    "startDate": "March, 2024",
+    "endDate": "August, 2024",
+    "experiences": ["Worked on HPCL Data and Prepared detailed reports and dashboards"],
+    "imageSrc": "history/salt.png"
+  }
+ 
+]

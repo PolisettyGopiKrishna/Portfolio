@@ -1,0 +1,23 @@
+[
+  {
+    "title": "HR DATA ANALYTICS",
+    "imageSrc": "projects/project1.png",
+    "description": "This is a project made me to analyse the data of the company attendance to the office and represented entire analysis in visualization format",
+    "skills": ["PowerBI", "Excel"],
+    "source": "https://github.com/PolisettyGopiKrishna/HR-DATA-ANALYTICS"
+  },
+  {
+    "title": "CarZone",
+    "imageSrc": "projects/project2.png",
+    "description": "The project will help for buying,browse cars and compare the prices of cars and connect with sellers seamlessly.",
+    "skills": ["Django", "HTML", "CSS", "Javascript"],
+    "source": "https://github.com/PolisettyGopiKrishna/carzone-gitproject"
+  },
+  {
+    "title": "Potato_Image_Classification",
+    "imageSrc": "projects/project3.png",
+    "description": "This project uses deep learning to identify different types of potato diseases from images.",
+    "skills": ["DeepLearning", "Tensorflow", "Many Python Libraries"],
+    "source": "https://github.com/PolisettyGopiKrishna/Potato_Image_classification/tree/main/training"
+  }
+]
